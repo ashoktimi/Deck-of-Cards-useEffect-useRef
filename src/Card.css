@@ -1,0 +1,17 @@
+
+  body {
+    text-align: center;
+    background-color: green;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    background-color: #444;
+  }
+  
+  .Card{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
